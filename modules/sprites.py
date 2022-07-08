@@ -1,8 +1,3 @@
-'''
-Created on Apr 9, 2021
-
-@author: martinyanev
-'''
 import pygame
 import random
 
